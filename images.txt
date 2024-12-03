@@ -1,4 +1,4 @@
-Cassandra:latest
-Redis:latest
-Elasticsearch:latest
-Neo4j:latest
+Cassandra
+Redis
+Elasticsearch
+Neo4j
