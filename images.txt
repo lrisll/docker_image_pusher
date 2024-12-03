@@ -1,4 +1,4 @@
 cassandra:latest
 redis:latest
-elasticsearch:latest
+elasticsearch:7.10.0
 neo4j:latest
